@@ -50,5 +50,17 @@ Not for the titles — but for **impact that shipped**.
 
 ---
 
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoniMohi&show_icons=true&theme=tokyonight)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoniMohi&layout=compact)
+
+---
+
 > _Still growing. Still building. And this is just the beginning._
+
+---
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=SoniMohi&style=flat-square&color=blue)
 
